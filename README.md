@@ -1,7 +1,7 @@
 # 신한DS금융SW아카데미 1기 자바 알고리즘 스터디 
-<img src="https://img.shields.io/github/contributors/teon98/ShinHanDS_AlgorithmStudy" /> <img src="https://img.shields.io/github/languages/count/teon98/ShinHanDS_AlgorithmStudy" /> <img src="https://img.shields.io/github/languages/top/teon98/ShinHanDS_AlgorithmStudy" /> <img src="https://img.shields.io/github/commit-activity/w/teon98/ShinHanDS_AlgorithmStudy" /> <img src="https://img.shields.io/github/last-commit/teon98/ShinHanDS_AlgorithmStudy"/> <img src="https://img.shields.io/github/issues-pr/teon98/ShinHanDS_AlgorithmStudy" />
+<img src="https://img.shields.io/github/contributors/ShinhanAcademy1st/AlgorithmStudy" /> <img src="https://img.shields.io/github/languages/count/ShinhanAcademy1st/AlgorithmStudy" /> <img src="https://img.shields.io/github/languages/top/ShinhanAcademy1st/AlgorithmStudy" /> <img src="https://img.shields.io/github/commit-activity/w/ShinhanAcademy1st/AlgorithmStudy" /> <img src="https://img.shields.io/github/last-commit/ShinhanAcademy1st/AlgorithmStudy"/> <img src="https://img.shields.io/github/issues-pr/ShinhanAcademy1st/AlgorithmStudy" />
 <br>
-<img src="https://img.shields.io/github/watchers/teon98/ShinHanDS_AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/teon98/ShinHanDS_AlgorithmStudy?style=social" /> 
+<img src="https://img.shields.io/github/watchers/ShinhanAcademy1st/AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/ShinhanAcademy1st/AlgorithmStudy?style=social" /> 
 
 ### ⭐3월 5째주(3/27 ~ 4/2) 문제 모음 
 (스터디 시작 주 - 업로드 예정)
@@ -78,30 +78,51 @@
  
  ## 6️⃣ 스터디 참가자
  <table>
-    <tr>
-        <td> <img src="https://avatars.githubusercontent.com/u/49816869?v=4" width="150px" height="150px"/></td>
-        <td> <img src="https://avatars.githubusercontent.com/u/70212701?v=4" width="150px" height="150px"/></td>
-        <td> <img src="https://avatars.githubusercontent.com/u/80306786?v=4" width="150px" height="150px"/></td>
-        <td> <img src="https://avatars.githubusercontent.com/u/81313471?v=4" width="150px" height="150px"/></td>
-        <td> <img src="" width="150px" height="150px"/></td>
-    </tr>
-    <tr>
+     <tr>
         <td align="center" ><a href="https://github.com/teon98">태영</a></td>
         <td align="center" ><a href="https://github.com/svbean77">은빈</a></td>
         <td align="center" ><a href="https://github.com/jiman-you">지만</a></td>
         <td align="center" ><a href="https://github.com/qwerty0911">범기</a></td>
-        <td align="center" ><a href="">용희</a></td>
+        <td align="center" ><a href="https://github.com/djdjdddd">용희</a></td>
     </tr>
     <tr>
-        <td> <img src="" width="150px" height="150px"/></td>
-        <td> <img src="" width="150px" height="150px"/></td>
-        <td> <img src="" width="150px" height="150px"/></td>
-        <td> <img src="" width="150px" height="150px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/49816869?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/70212701?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/80306786?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/81313471?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/126077503?v=4" width="100px" height="100px"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="">이솔</a></td>
-        <td align="center" ><a href="">은정</a></td>
-        <td align="center" ><a href="">성은</a></td>
-        <td align="center" ><a href="">유진</a></td>
+        <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> 
+                            <img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+                            </td>
+        <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> 
+                            <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB">
+        </td> 
+        <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> </td>
+        <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396">
+                            <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB">
+        </td>
+        <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> </td> 
     </tr>
- </table
+    <tr>
+        <td align="center" ><a href="https://github.com/leessol">이솔</a></td>
+        <td align="center" ><a href="https://github.com/e-7281998">은정</a></td>
+        <td align="center" ><a href="https://github.com/seonggg">성은</a></td>
+        <td align="center" ><a href="https://github.com/YYJ-1229">유진</a></td>
+    </tr>
+    <tr>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/128359635?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/78722497?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/87373911?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/48702029?v=4" width="100px" height="100px"/></td>
+    </tr>
+        <tr>
+        <td align="center"><img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB"></td>
+        <td align="center"><img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396">
+                            <img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+        </td>
+        <td align="center"><img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"></td>
+        <td align="center"><img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></td>
+    </tr>
+ </table>
