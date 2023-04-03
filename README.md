@@ -10,7 +10,7 @@
 |:---|:---|:---|:---|:---|
 |1|태영|[[PGS] 최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|LV0|**범기**
 |2|은빈|[[PGS] 피자 나눠 먹기2](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|LV0| |
-|3|범|[[BOJ]로프](https://www.acmicpc.net/problem/2217)|실버4| |
+|3|범기|[[BOJ]로프](https://www.acmicpc.net/problem/2217)|실버4| |
 |4| | | | |
 |5| | | | |
 |6| | | | |
