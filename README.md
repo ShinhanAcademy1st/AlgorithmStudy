@@ -3,7 +3,7 @@
 <br>
 <img src="https://img.shields.io/github/watchers/ShinhanAcademy1st/AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/ShinhanAcademy1st/AlgorithmStudy?style=social" /> 
 
-### ⭐3월 5째주(3/27 ~ 4/2) 문제 모음 
+### ⭐4월 1째주(4/3~4/9) 문제 모음 
 (스터디 시작 주 - 업로드 예정)
 <br>
 |번호|등록자|문제|난이도|푼사람|
@@ -11,7 +11,7 @@
 |1|태영|[[PGS] 최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|LV0|**범기**
 |2|은빈|[[PGS] 피자 나눠 먹기2](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|LV0| |
 |3|범기|[[BOJ]로프](https://www.acmicpc.net/problem/2217)|실버4| |
-|4|지만|[[BOJ] 더하기사이클](https://www.acmicpc.net/problem/1110) |브론즈1 | |
+|4|지만|[[BOJ] 더하기사이클](https://www.acmicpc.net/problem/1110) |브론즈1 |**태영**|
 |5| | | | |
 |6| | | | |
 |7| | | | |
