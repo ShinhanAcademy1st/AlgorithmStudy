@@ -12,7 +12,7 @@
 |2|은빈|[[PGS] 피자 나눠 먹기2](https://school.programmers.co.kr/learn/courses/30/lessons/120815)|LV0| |
 |3|범기|[[BOJ]로프](https://www.acmicpc.net/problem/2217)|실버4|**태영**|
 |4|지만|[[BOJ] 더하기사이클](https://www.acmicpc.net/problem/1110) |브론즈1 |**태영**|
-|5| | | | |
+|5|유진|[[PGS]신고결과받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|Lv1| |
 |6| | | | |
 |7| | | | |
 |8| | | | |
