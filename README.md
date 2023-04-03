@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/github/watchers/ShinhanAcademy1st/AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/ShinhanAcademy1st/AlgorithmStudy?style=social" /> 
 
 ### ⭐4월 1째주(4/3~4/9) 문제 모음 
-(스터디 시작 주 - 업로드 예정)
 <br>
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
