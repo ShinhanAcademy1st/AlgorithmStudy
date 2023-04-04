@@ -8,7 +8,7 @@
 
 <br>
 
-=======
+
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|태영|[[PGS] 최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|LV0|**범기**
