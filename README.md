@@ -16,7 +16,7 @@
 |3|범기|[[BOJ]로프](https://www.acmicpc.net/problem/2217)|실버4|**태영**|
 |4|지만|[[BOJ] 더하기사이클](https://www.acmicpc.net/problem/1110) |브론즈1 |**태영**|
 |5|성은|[[BOJ] 펙토리얼0의개수](https://www.acmicpc.net/problem/1676) |실버5 |**범기**|
-|6| | | | |
+|6|은정|[[PGS] 덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |lv1 | |
 |7| | | | |
 |8| | | | |
 |9| | | | |
