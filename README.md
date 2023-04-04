@@ -94,7 +94,6 @@
     </tr>
     <tr>
         <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> 
-                            <img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
                             </td>
         <td align="center"> <img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"> 
                             <img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB">
@@ -110,12 +109,14 @@
         <td align="center" ><a href="https://github.com/e-7281998">은정</a></td>
         <td align="center" ><a href="https://github.com/seonggg">성은</a></td>
         <td align="center" ><a href="https://github.com/YYJ-1229">유진</a></td>
+        <td align="center" ><a href="https://github.com/junbeom-Son">준범</a></td>
     </tr>
     <tr>
         <td align="center"> <img src="https://avatars.githubusercontent.com/u/128359635?v=4" width="100px" height="100px"/></td>
         <td align="center"> <img src="https://avatars.githubusercontent.com/u/78722497?v=4" width="100px" height="100px"/></td>
         <td align="center"> <img src="https://avatars.githubusercontent.com/u/87373911?v=4" width="100px" height="100px"/></td>
         <td align="center"> <img src="https://avatars.githubusercontent.com/u/48702029?v=4" width="100px" height="100px"/></td>
+        <td align="center"> <img src="https://avatars.githubusercontent.com/u/89973303?v=4 width="100px" height="100px"/></td>
     </tr>
         <tr>
         <td align="center"><img src="https://img.shields.io/badge/-PYTHON-%23F7DF1E?style=flat-square&logo=Python&logoColor=white&color=3776AB"></td>
@@ -124,5 +125,7 @@
         </td>
         <td align="center"><img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"></td>
         <td align="center"><img src="https://img.shields.io/badge/-JAVASCRIPT-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></td>
+        <td align="center"><img src="https://img.shields.io/badge/-JAVA-%23F7DF1E?style=flat-square&logo=Java&logoColor=white&color=007396"></td>
+        
     </tr>
  </table>
