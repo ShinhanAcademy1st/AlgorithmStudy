@@ -14,7 +14,7 @@
 |4|지만|[[BOJ] 더하기사이클](https://www.acmicpc.net/problem/1110) |브론즈1 |**태영**, **은빈**, **성은**, **은정**|
 |5|성은|[[BOJ] 펙토리얼0의개수](https://www.acmicpc.net/problem/1676) |실버5 |**범기**,**은빈**|
 |6|은정|[[PGS] 덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |lv1 | |
-|7| | | | |
+|7|준범|[BOJ] 블로그2(https://www.acmicpc.net/problem/20365)|실버3| |
 |8| | | | |
 |9| | | | |
 
