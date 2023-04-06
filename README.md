@@ -18,7 +18,7 @@
 |5|성은|[[BOJ] 펙토리얼0의개수](https://www.acmicpc.net/problem/1676) |실버5 |**범기**,[**은빈**](https://github.com/svbean77/AlgorithmStudy/blob/main/%EC%9D%80%EB%B9%88/%EC%9E%90%EB%B0%94/%5BBOJ%5D%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.java)|
 |6|은정|[[PGS] 덧칠하기](https://school.programmers.co.kr/learn/courses/30/lessons/161989) |lv1 | [**준범**](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BPGS%5D%20%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0%20-%20%EC%9D%80%EC%A0%95.java),[**유진**](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%9C%A0%EC%A7%84/%5BPGS%5D%EB%8D%A7%EC%B9%A0%ED%95%98%EA%B8%B0.js)
 |7|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%EB%B8%94%EB%A1%9C%EA%B7%B82%2020365.java)|[[BOJ] 블로그2](https://www.acmicpc.net/problem/20365)|실버3| |
-|8|[유진]|[[PGS]신고결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|ㅣLV.1| |
+|8|유진|[[PGS]신고결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|ㅣLV.1| |
 |9| | | | |
 
 
