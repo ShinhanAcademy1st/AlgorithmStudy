@@ -12,7 +12,7 @@
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|범기|[[PGS] 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|LV3|
-|2| | | | |
+|2|유진|[[PGS]짝지어 제거하기]|(https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV2|
 |3| | | | |
 |4| | | | |
 |5| | | | |
