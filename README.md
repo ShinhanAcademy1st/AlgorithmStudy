@@ -13,7 +13,7 @@
 |:---|:---|:---|:---|:---|
 |1|범기|[[PGS] 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|LV3|
 |2|유진|[[PGS]짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV2|
-|3| | | | |
+|3|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%2010815.java)|[[BOJ]숫자 카드(https://www.acmicpc.net/problem/10815)]|실버 5| |
 |4| | | | |
 |5| | | | |
 |6| | | | |
