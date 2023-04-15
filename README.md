@@ -4,17 +4,17 @@
 <br>
 <img src="https://img.shields.io/github/watchers/ShinhanAcademy1st/AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/ShinhanAcademy1st/AlgorithmStudy?style=social" />
 
-### ⭐4월 1째주(4/3~4/9) 문제 모음
+### ⭐4월 2째주(4/10~4/16) 문제 모음
 
 <br>
 
 
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
-|1|범기|[[PGS] 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|LV3|
-|2|유진|[[PGS]짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV2|
-|3|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%2010815.java)|[[BOJ]숫자 카드](https://www.acmicpc.net/problem/10815)|실버 5| |
-|4| | | | |
+|1|범기|[[PGS] 가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)|LV3| |
+|2|유진|[[PGS]짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|LV2| |
+|3|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%EC%88%AB%EC%9E%90%EC%B9%B4%EB%93%9C%2010815.java)|[[BOJ]숫자 카드](https://www.acmicpc.net/problem/10815)|실버 5|[은빈](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%9D%80%EB%B9%88/%EC%9E%90%EB%B0%94/%5BPGS%5D%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.java) | 
+|4|[은빈](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%9D%80%EB%B9%88/%EC%9E%90%EB%B0%94/%5BPGS%5D%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4.java)|[[PGS] 같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) |LV1 | |
 |5| | | | |
 |6| | | | |
 |7| | | | |
