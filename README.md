@@ -11,7 +11,7 @@
 
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
-|1|은정|[[PGS] 크레인인형뽑기게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)|LV1| |
+|1|은정|[[PGS] 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|LV1| |
 |2|성은|[[PGS] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|Lv1| |
 |3| | | | | 
 |4| | | | |
