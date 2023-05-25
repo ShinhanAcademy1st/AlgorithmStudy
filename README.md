@@ -12,7 +12,7 @@
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|은정|[[PGS] 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|LV1| |
-|2|성은|[[PGS] 키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)|Lv1| |
+|2|성은|[[PGS] 문자열나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|Lv1| |
 |3| | | | | 
 |4| | | | |
 |5| | | | |
