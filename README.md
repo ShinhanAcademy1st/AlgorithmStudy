@@ -13,7 +13,7 @@
 |:---|:---|:---|:---|:---|
 |1|은정|[[PGS] 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)|LV1| |
 |2|성은|[[PGS] 문자열나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|Lv1| |
-|3| | | | | 
+|3|은빈|[[PGS] 소수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12921?language=java) |LV1| | 
 |4| | | | |
 |5| | | | |
 |6| | | | |
