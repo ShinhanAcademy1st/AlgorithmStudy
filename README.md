@@ -12,7 +12,7 @@
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|은정|[[PGS] 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV2| |
-|2|| | | |
+|2||성은|[[BOJ]다리놓기](https://www.acmicpc.net/problem/1010)|실버5|
 |3|| | | | 
 |4| | | | |
 |5| | | | |
