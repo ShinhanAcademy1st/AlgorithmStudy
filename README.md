@@ -4,16 +4,16 @@
 <br>
 <img src="https://img.shields.io/github/watchers/ShinhanAcademy1st/AlgorithmStudy?style=social" /> <img src="https://img.shields.io/github/stars/ShinhanAcademy1st/AlgorithmStudy?style=social" />
 
-### ⭐5월 4째주(5/22~5/28) 문제 모음
+### ⭐6월 1째주(5/29~6/4) 문제 모음
 
 <br>
 
 
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
-|1|은정|[[PGS] 점프와순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|LV2| |
-|2|성은|[[BOJ]다리놓기](https://www.acmicpc.net/problem/1010)|실버5|은정 |
-|3|은빈 |[[PGS]완주하지못한선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | LV1| |
+|1|은정|[[PGS] 방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|LV2| |
+|2| | | |  |
+|3|  | |  | |
 |4| | | | |
 |5| | | | |
 |6| | | | |
