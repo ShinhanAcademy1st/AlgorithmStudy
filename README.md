@@ -12,7 +12,7 @@
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|은정|[[PGS] 방문길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|LV2| |
-|2| | | |  |
+|2|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%ED%98%B8%ED%85%94%201106.java)|[[BOJ] 호텔](https://www.acmicpc.net/problem/1106)|골드5|  |
 |3|  | |  | |
 |4| | | | |
 |5| | | | |
