@@ -12,7 +12,7 @@
 |번호|등록자|문제|난이도|푼사람|
 |:---|:---|:---|:---|:---|
 |1|성은|[[BOJ]방 번호](https://www.acmicpc.net/problem/1475)|실버5| |
-|2| | | | |
+|2|은정| [[PGS]카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|Lv2 | |
 |3| | | | |
 |4| | | | |
 |5| | | | |
