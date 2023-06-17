@@ -14,7 +14,7 @@
 |1|성은|[[BOJ]방 번호](https://www.acmicpc.net/problem/1475)|실버5| |
 |2|은정| [[PGS]카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|Lv2 | |
 |3|은빈 |[[PGS]체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862?language=java) | LV1| |
-|4| | | | |
+|4|[준범](https://github.com/ShinhanAcademy1st/AlgorithmStudy/blob/main/%EC%A4%80%EB%B2%94/%5BBOJ%5D%20%EC%B4%8C%EC%88%98%EA%B3%84%EC%82%B0.java)|[[BOJ]촌수계산](https://www.acmicpc.net/problem/2644)|실버2| |
 |5| | | | |
 |6| | | | |
 |7| | | | |
